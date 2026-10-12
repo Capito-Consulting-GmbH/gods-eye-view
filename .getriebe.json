@@ -1,0 +1,7 @@
+{
+  "service": "https://github.com/Capito-Consulting-GmbH/Getriebe",
+  "version": 1,
+  "policy_check": "Getriebe policy",
+  "runner_policy": "central",
+  "environments": {}
+}
